@@ -1,26 +1,3 @@
-/* Add responsive styles */
-@media (max-width: 768px) {
-  .book-details-container {
-    flex-direction: column;
-  }
-  
-  .book-cover {
-    max-width: 100%;
-    margin-bottom: 20px;
-  }
-}
-
-/* General styles */
-.container {
-  padding: 20px;
-}
-
-.book-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
-}
 #root {
   max-width: 1280px;
   margin: 0 auto;
