@@ -1,5 +1,5 @@
 //const API_KEY = 'AIzaSyDUZ1c9XAhT2t38NdTLMIzwXssWVcvtDKM'; // Updated API key as requested
-const API_KEY = 'AIzaSyBYIDTr0lrZJbM_ADA_GZ9JE4rgkGOf2jo'; // Meta 
+const API_KEY = 'AIzaSyCN7WKlz0V4tewPDWpXdr-sAHjpXSUjQKA'; // Meta 
 const API_BASE_URL = 'https://www.googleapis.com/books/v1';
 
 export interface Book {
